@@ -3,11 +3,16 @@ For this project I was tasked with provisioning a spark cluster using amazon web
 Techolonogies :
 
 AWS:
+
 •	S3
+
 •	EC2
+
 •	Apache Spark
 
 Python Libraries :
+
 •	Pandas
+
 •	Matplotlib
 
